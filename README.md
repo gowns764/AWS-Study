@@ -1,2 +1,2 @@
 # AWS-Study
-AWS 공부
+AWS 간단 정리
